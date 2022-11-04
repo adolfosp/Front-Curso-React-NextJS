@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Folder node_modules
+./projeto-react-basico/node_modules
